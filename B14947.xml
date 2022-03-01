@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true report of all the speciall passages of note lately happened in the Ile of Ree betwixt the Lord Duke of Buckingham his Grace, Generall for the King of England, and Monsieur Thorax, Gouernour of the Fort in the said Ile, as also betwixt the Duke and the French King, likewise the present state of the Rochellers, and of the Kings Armie lying before it. [Novemb. I.] Numb. 40. The continuation of our vveekly newes from the 24. of October to the 2. of Nouember. Containing among the rest these speciall particulars following. Vnto which is added newes from Germany, France, and diuers parts of Christendome. The warlike proceedings of the imperialists, and Danish. The treatie of peace betwixt Poland and Sweden. The Emperours iourney towarde Prage. Besides diuers other matters of moment. Printed by authoritie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1627</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14947</idno>
+            <idno type="STC">STC 18507.193</idno>
+            <idno type="STC">ESTC S105402</idno>
+            <idno type="EEBO-CITATION">99841131</idno>
+            <idno type="PROQUEST">99841131</idno>
+            <idno type="VID">177233</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14947)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177233)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 944:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true report of all the speciall passages of note lately happened in the Ile of Ree betwixt the Lord Duke of Buckingham his Grace, Generall for the King of England, and Monsieur Thorax, Gouernour of the Fort in the said Ile, as also betwixt the Duke and the French King, likewise the present state of the Rochellers, and of the Kings Armie lying before it. [Novemb. I.] Numb. 40. The continuation of our vveekly newes from the 24. of October to the 2. of Nouember. Containing among the rest these speciall particulars following. Vnto which is added newes from Germany, France, and diuers parts of Christendome. The warlike proceedings of the imperialists, and Danish. The treatie of peace betwixt Poland and Sweden. The Emperours iourney towarde Prage. Besides diuers other matters of moment. Printed by authoritie.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by W. Stansby] for Nathaniel Butter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1627.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Identified as STC 25201aa on UMI microfilm.</note>
+                  <note>Provenance slip of Sir R. Leicester Harmsworth, Bart. pasted over date in title.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ré Expedition, 1627 --  Early works to 1800.</term>
+               <term>Europe --  History --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177233:1" rendition="simple:additions"/>
+            <p>A true Report of all the ſpeciall <hi>Paſſages of note lately happened in the Ile of Roe,</hi> betwixt the Lord Duke of <hi>Buckingham</hi> his Grace, <hi>Generall for the King of England, and Monſieur Thorax,</hi> Gouernour of the Fort in the ſaid Ile, as alſo <hi>betwixt the Duke and the</hi> French <hi>King, likewiſe the preſent ſtate of the</hi> Rochellers, and of the Kings Armie lying before it</p>
+            <p>
+               <hi>Numb.</hi> 40.</p>
+            <p>The Continuation of our vveek<g ref="char:EOLhyphen"/>ly <hi>Newes from the</hi> 24. <hi>of</hi> October <hi>to</hi> the 2. of <hi>Nouember.</hi>
+            </p>
+            <p>Containing amongst the reſt theſe ſpeciall particulars following.</p>
+            <p>Vnto which is added Newes from <hi>Germany, France, and diuers parts of Chriſtendome.</hi>
+            </p>
+            <p>The warlike proceedings of the Imperialiſts, and <hi>Daniſh.</hi>
+            </p>
+            <p>The Treatie of Peace betwixt <hi>Poland</hi> and <hi>Sweden.</hi>
+            </p>
+            <p>
+               <hi>The Emperours Iourney towards</hi> Prage.</p>
+            <p>
+               <hi>Beſides diuers other matters of moment.</hi>
+            </p>
+            <p>Printed by Authoritie.</p>
+            <p>LONDON Printed for <hi>Nathaniell Butter,</hi> 1627.</p>
+         </div>
+      </front>
+      <body>
+         <div type="news">
+            <pb facs="tcp:177233:2"/>
+            <pb facs="tcp:177233:2"/>
+            <head>A true Report of all the paſſages in the Ile of <hi>Ree,</hi> twixt the Duke of <hi>Buckingham</hi> his Grace, and <hi>Monſieur Thorax,</hi> Gouernour of the Fort, as al<g ref="char:EOLhyphen"/>ſo betwixt the Duke, and the French King, and of the ſtate of the <hi>Rochellers,</hi> and the Kings forces lying before it, to<g ref="char:EOLhyphen"/>gether with other matters of moment lately hapned there. As it was on Sun<g ref="char:EOLhyphen"/>day laſt being the 25. of <hi>October,</hi> rela<g ref="char:EOLhyphen"/>ted at <hi>White Hall,</hi> by a <hi>Dutchman</hi> that came from thence.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Bout twelue dayes ſince it pleaſed his Ex<g ref="char:EOLhyphen"/>cellencie the Duke of <hi>Buckingham</hi> to diſpatch a Dutchman with Letters to his Maieſtie concerning the preſent ſtate of our Armie, lying now in the Ile of <hi>Ree,</hi> and before the Fort or Cittadell there, who ſaith,
+<pb facs="tcp:177233:3"/>that about three dayes before his comming away, Sir <hi>William Bourchier</hi> arriued at the Ile with certaine ſhips furniſhed with money and victuals, ſafe and well, which gaue great comfort to his Excellencie, hauing long ex<g ref="char:EOLhyphen"/>pected to heare from <hi>England,</hi> in ſo much that before his arriuall our Armie was in great diſtreſſe for want of pro<g ref="char:EOLhyphen"/>uiſion and of victuals, and other neceſſaries, that it was a great queſtion whether they ſhould continue there any longer, or rather giue ouer the further proſecution of the action, in regard of thoſe many extremities that they were brought vnto, hauing beene of a long time not ſup<g ref="char:EOLhyphen"/>plyed from <hi>England,</hi> whereupon my Lord taking into conſideration, the great diſhonour that would redound to the Nation; ſaid that he would for his part aduenture himſelfe to the vttermoſt perils Fortune could obiect a<g ref="char:EOLhyphen"/>gainſt him, rather then hee would giue ouer ſo noble a deſigne, and did therevpon exhort all his followers and Souldiers to a conſtant perſeuerance in the action, mau<g ref="char:EOLhyphen"/>gre all the difficulties that might enſue ſaying that hee would participate of the greateſt dangers with themeneſt of his followers, before hee would ſuffer the diſhonour that would accrue vpon the declining of ſuch an action, and further ſaid hee would rather commit himſelfe and his whole Armie to the releeuing of the Towne of Ro<g ref="char:EOLhyphen"/>chell before he would returne into England with diſho<g ref="char:EOLhyphen"/>nour, or without the accompliſhing of the buſineſſe for which he came thither.</p>
+            <p>For the ſtate of the Fort (notwithſtanding ſome ſmall reliefe they lately had obtayned) is ſuch that in the iudgement of man, it cannot hold out many dayes, for ſince they haue receiued ſome reliefe, there hath come forth daily by twenties more or leſſe, poore hunger-ſtarued people, which doth demonſtrate the ſtate of the reſt, hauing had (as they report) only a
+<pb facs="tcp:177233:3"/>poore pittance of Bread and Water, for a moneth or fiue weekes together, inſomuch, that the number in the Fort which they haue remayning for defence, is come from two thouſand and odde to fiue hundred, and that of late about two dayes before the comming away of this Meſſenger, a Dutchman comming out of the Fort, and did deliuer to my Lord Duke the ſtrength of the Fort, and where they were beſt prouided for defence, what places were weakeſt, and not able to defend the leaſt aſſault, ſhould bee made againſt them. For in reaſon, if we conſider the compaſſe of the Fort) being about a mile) the beſieged with that number of men cannot mayntaine each worke, with enterchange of freſh men, as the neceſſitie of the ſiege will require, by which you may gather that they cannot long ſubſiſt. Beſides my Lord hath taken and doth poſſeſſe, two of the principall out-workes of the Enemie, by which they are able to diſmount the greateſt part of their Ordi<g ref="char:EOLhyphen"/>nance, and in ſhort time to command ſome other of their beſt workes, and to giue law vnto them in their owne tro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ches.</p>
+            <p>Vpon which conſideration, together with other infor<g ref="char:EOLhyphen"/>mation receiued, my Lord called a Councell, and did thereupon reſolue to aſſaile them in places of beſt ad<g ref="char:EOLhyphen"/>uantage, which was to be put in execution immediate<g ref="char:EOLhyphen"/>ly vpon the comming away of this Meſſenger, not doub<g ref="char:EOLhyphen"/>ting (as this Meſſenger reports) of a happie Iſſue, and that the Fort before this is in the poſſeſſion of the Engliſh.</p>
+            <p>For the further hope of reliefe which they may ex<g ref="char:EOLhyphen"/>pect from the Mayne, my Lord hath taken ſuch care, and hath from Rochell receiued diuers flat bottome
+<pb facs="tcp:177233:4"/>Boates, which are ſo linked and chainted together by art, that now it is impoſſible that any ſuccour ſhould be brought in, in the night, as formerly hath beene; now, whereas ſome may obiect againſt my Lords care in ſuf<g ref="char:EOLhyphen"/>fering the Fort thus at ſeuerall times to be relieued, I an<g ref="char:EOLhyphen"/>ſwer, that it is not poſſible, neither could the wit of man preuent the ſame, if they will venture at all times, and hazard themſelues, but that ſome of many may ſcape in, with ſome ſmall prouiſion, vnleſſe wee could guard the ſhoare with a ſufficient number of Boates aſwell night, as day, to preuent which they haue now made a Barracado; as aforeſaid.</p>
+            <p>The French King did lately ſend a Meſſenger to my Lord to require a faire quarter to bee obſerued by his Excellency, &amp; did promiſe the like ſhould be obſerued on his part, wherunto my Lord ſent him this anſwer, that for his part he would obſerue all farre quarters with his Maieſtie by land; but by water, he deſired him to par<g ref="char:EOLhyphen"/>don him, and ſayd, that by water it might diſaduan<g ref="char:EOLhyphen"/>him, and therefore would keepe no other quarters then he had done hitherto, and which by the Law of Armes he might iuſtifie with his Honour.</p>
+            <p>The French King lying with his Armie before Rochell is verie ſicke, and doth ſuffer much in his Army by ſeuerall caſualties: the new Fort which hee hath lately erected, is much demoliſhed, and diuerſe workes belonging to it taken by the R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chellers, beſides thoſe of Rochell are building another Fort againſt it, which will be a great annoyance to the Kings Armie.</p>
+            <p>The Duke of Rohan is marching to the ayd of Ro<g ref="char:EOLhyphen"/>chell with 7000. Foot and 500. Horſe well prouided
+<pb facs="tcp:177233:4"/>and reſolute Souldiers. In Lorraine, a Biſhop of that Dukedome hath in readineſſe 15000. men, which as it is ſayd, are prouided, and haue a purpoſe to fall vpon ſome parts of the French Kings Dominions, and that the quarrell ſhould be the Houſe of Auſtria's, beſides ſome other Princes are preparing to inuade him likewiſe, which will giue the French King his hands full.</p>
+            <p>My L. Duke and his whole Armie are couragious and in good eſtate, he hath receiued lately fiue compa<g ref="char:EOLhyphen"/>nies from Rochell of braue reſolute fellowes, and hath ſent into Rochell all his ſicke and hurt men, where they are well releeued of all neceſſaries.</p>
+            <p>The Rochellers haue wholly declared themſelues for the King of England, as by the Articles which are agreed vpon by my L. Duke and them doth appeare, his Excel<g ref="char:EOLhyphen"/>lencie hath ſent word to his Maieſtie, that if it pleaſe him to ſend him bread, he will deſerue it, but if he will adde vnto it ſomewhat more he will drinke his health; by which you may ſee his inuincible courage, zeale and affection to his Countries Honour, which I pray God to proſper.</p>
+            <p>Since this Meſſenger came, one Maſter <hi>Griffin,</hi> a Gentle-man belonging to his Excellencie, arriued in London on Sunday night (who being longer at ſea) yet was diſpatcht away before this Dutch-man 12. daies, &amp; doth confirme what this Meſſenger brought, only it was his misfortune to arriue after him, being croſt by con<g ref="char:EOLhyphen"/>trarie winds, and the Barke in which hee came in being caſt away, and onely himſelfe and his fellow-paſſengers were ſaued by the mercie of God, together with thoſe packets and other matters of worth, which they had in
+<pb facs="tcp:177233:5"/>the ſaid Barke, were ſaued from ſhipwracke, and can re<g ref="char:EOLhyphen"/>late not much more then the former Meſſenger.</p>
+            <div type="entry">
+               <head>From <hi>Rome</hi> the <hi>18.</hi> of September.</head>
+               <p>ON Satturday laſt, paſt a Spaniſh Poſt thorow this Citie going to the Vice-Roy of the Kingdome of Naples with an order of the King of Spaine, that hee ſhould ſend many Ships and Gallies into Spaine, to bee imployed againſt the Engliſh.</p>
+            </div>
+            <div type="entry">
+               <head>From <hi>Venice</hi> the <hi>24.</hi> of September.</head>
+               <p>They write from Rauenna, that the haile hath done there great hurt to the Corne, Vines, and Cattell.</p>
+               <p>About foureteene dayes agoe was here a great tem<g ref="char:EOLhyphen"/>peſt with much raine. The Duke of Sauoy hath ſent many Souldiers towards Aſti, to raiſe there ſome Sconces.</p>
+            </div>
+            <div type="entry">
+               <head>From <hi>Vienna</hi> the <hi>28.</hi> of September.</head>
+               <p>The Imperiall Proclamations are here ſtrictly execu<g ref="char:EOLhyphen"/>ted againſt the Proteſtants, whoſe Preachers begin to depart. The Emperour is doing the like both in Styria, Carenthia, and Crain. The Proteſtants which haue here yet beene ſuffered, are compelled to depart from hence, vpon paine of the forfeiture of all their lands and goods,
+<gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+         <div type="news">
+            <pb n="7" facs="tcp:177233:5"/>
+            <head>THE Continuation of our VVeekly Newes from the 24 of October to the 2 of Nouember.</head>
+            <head type="sub">From <hi>Jtaly, Germany, Poland, Swethland, France,</hi> the <hi>Low-Countries,</hi> and diuers o<g ref="char:EOLhyphen"/>ther places.</head>
+            <div type="entry">
+               <head>From Rome the <hi>25</hi> of September.</head>
+               <p>ON Wedneſday laſt, paſt an extraordinary Poſt, of the Merchants of <hi>Genoa</hi> through this City, being ſent towards <hi>Naples</hi> by them, ſeeing that the King of <hi>Spaine</hi> hath tranſported vnto them his Cuſtome of Silke which he hath in the Kingdome of <hi>Naples,</hi> to get thereby the money which hee oweth vn<g ref="char:EOLhyphen"/>to them.</p>
+               <p>Here is little newes, ſeeing that all the Souldiers which were in theſe parts leauied, are gone into <hi>Ger<g ref="char:EOLhyphen"/>many,</hi> to ſerue the Emperour, except them which are laid in gariſon.</p>
+            </div>
+            <div type="entry">
+               <pb n="8" facs="tcp:177233:6"/>
+               <head>From Vienna the <hi>29</hi> of September.</head>
+               <p>On the 26 of this Moneth is his Imperiall Maieſtie with the Empreſſe, the King of <hi>Hungarie,</hi> and both his daughters, beſides many of his Courtiers, gone from hence towards <hi>Prage.</hi> The Prince his yongeſt Sonne, and the Archduke <hi>Leopoldus</hi> tarrie here.</p>
+               <p>His Imperiall Maieſtie and all them which are gone with him, are to day to keepe at <hi>Nicholas burg</hi> in the houſe of the Cardinall of <hi>Didrichſtein</hi> the feaſt of Saint <hi>Michael.</hi>
+               </p>
+               <p>The Duke <hi>Iulius Fredericke</hi> of <hi>Wirtenburg</hi> is here daily expected. But it is thought that ſeeing that the Emperor is departed that he will reſt himſelfe here ſome dayes, and goe afterwards to the Emperor.</p>
+               <p>To day is expired the time which was prefixed to the Proteſtant Preachers for their departure. But ſeeing that the raine-water, and otherwaters which haue drowned the Land, haue much ſpoiled the high-wayes, that they cannot well be vſed, they haue at their requeſt obtained leaue to tarry in this Land ſome few weekes to diſpoſe in the interim of their affayres, and meanes. They are to for<g ref="char:EOLhyphen"/>ſake this land before expiration of three weekes, vpon paine to be ſeuerely puniſhed.</p>
+               <p>It is here rumored by many, but belieued by very few, that there a peace concluded betwixt the Emperour and the great Signior for the ſpace of 25. yeares.</p>
+               <p>Herewith I ſend the Imperiall Proclamation which hath in this Court by the Clergie beene obtained, and beene printed, and affixed two dayes agoe, and likewiſe beene ſent to diuers other places, by which is commanded that the Preachers, and Schoole-maſters which are Pro<g ref="char:EOLhyphen"/>teſtants ſhall forſake the Land of <hi>Over-Ens</hi> within a cer<g ref="char:EOLhyphen"/>taine time which is prefixed, and that the exerciſe of their religion ſhall neuer any more there be ſuffered.</p>
+            </div>
+            <div type="entry">
+               <pb n="9" facs="tcp:177233:6"/>
+               <head>From Breſlaw the <hi>1</hi> of October.</head>
+               <p>To day is the Company of Captaine <hi>Swank</hi> diſcharged which was leauied for this Citie, ſo that wee haue now no more then three Companies to entertaine.</p>
+               <p>Wee haue newes from <hi>Thorne</hi> that there is not as yet a peace concluded betwixt the Kings of <hi>Polon</hi> and <hi>Sweden.</hi>
+               </p>
+               <p>It continueth not that the Army of <hi>Sweden</hi> hath bene ouerthrowne by the <hi>Poloniuns</hi> as they did formerly write from <hi>Danſick:</hi> But it is certaien that there haue been many ſlaine of each ſide, and that both parties retreated againe to their works, and intrenchments.</p>
+               <p>The Ambaſſadors, and Commiſſioners meet yet dayly, and it is reported that the Swediſh propound very hard conditions of peace, namely, that the King of <hi>Poland</hi> ſhould reſigne for euer for him and his heires the title and claime which hee hath or pretendeth to the Kingdome of <hi>Sweden:</hi> That the King of <hi>Poland</hi> ſhould giue to the King of <hi>Sweden</hi> 80 tunnes of gold for the payment of his ſoul<g ref="char:EOLhyphen"/>diers, and warlike expences: As likewiſe that the King of <hi>Poland</hi> ſhould ſuffer him to enioy for the ſpace of tenne yeares all the places which he hath taken in <hi>Pruſſia,</hi> and af<g ref="char:EOLhyphen"/>ter the expiration of them, hee ſhould reſtore them againe to the Crowne of <hi>Poland,</hi> beſides diuers other difficult points vnto which the King of <hi>Poland</hi> will not agree.</p>
+               <p>On Saturday laſt here was one beheaded before the Towne houſe, becauſe he kill'd a Coach-man.</p>
+               <p>To day is here publiſhed a Proclamation of the Empe<g ref="char:EOLhyphen"/>ror by which he cauſeth all the lands and goods to bee confiſcated of them which went to ſerue Count <hi>Mansfield</hi> in the late warres.</p>
+               <p>They write from <hi>Neus</hi> that no Proteſtants are ſuffered there to marry, vnleſſe they imbrace the Romiſh Religion. But if they will not doe it, they may ſell their lands, and goods, and depart thence.</p>
+            </div>
+            <div type="entry">
+               <pb n="10" facs="tcp:177233:7"/>
+               <head>From Venice the <hi>1.</hi> of October.</head>
+               <p>They write from <hi>Millaine</hi> that all the ſouldiers of the Lord of <hi>Pappenheim</hi> are marched through <hi>
+                     <g ref="char:V">Ʋ</g>eltolina</hi> into <hi>Germanie,</hi> and that they of the Count of <hi>Solms</hi> are ſhortly to follow them. The Colonell <hi>Piccolomini</hi> is likewiſe paſt thorow <hi>Chur,</hi> with 40 horſe to follow them.</p>
+               <p>We haue newes from <hi>Genoa,</hi> that there is a peace con<g ref="char:EOLhyphen"/>cluded betwixt the Duke of <hi>Sauoy,</hi> &amp; the ſaid Signeurie, and that although the ſaid Signeurie hath diſcharged ſixe Companies of Italians, that they take neuertheleſſe Ger<g ref="char:EOLhyphen"/>maines into their ſeruice in lieu of them.</p>
+               <p>We learne from <hi>France</hi> that the Duke of <hi>Momorancy</hi> is gathering great forces againſt the Proteſtants of <hi>France,</hi> and that he is appointed to beſiege the Towne of <hi>Nimis,</hi> in which the Duke of <hi>Rohan</hi> is in perſon: As likewiſe that they make there great warlike preparations by water a<g ref="char:EOLhyphen"/>gainſt the Engliſh. Moreouer that the Engliſh haue ſlaine, and throwne ouerboard many French men and ſouldiers that were bound for the Iland of St. <hi>Martin.</hi>
+               </p>
+            </div>
+            <div type="entry">
+               <head>From Danſicke the <hi>7.</hi> of September.</head>
+               <p>On the 24 of Auguſt after dinner time went the Duke of <hi>Holſtein</hi> into the field to looke out for a conuenient place to inquarter his leger (which is ſeparated from that of the <hi>Polonians</hi>) to whom are likewiſe ioyned the Forces of the two Commanders named <hi>Dohnhof<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</hi>
+               </p>
+               <p>On the 29 of Auguſt about the euening came the King of <hi>Poland</hi> with many men of note, and his Courtiers, and followers into this City, and was with great ſtate and pompe fetcht into it by our Citizens; and well entertained afterwards by our Magiſtrates.</p>
+               <p>The day before were the Ambaſſadours of the States Generall of the Vnited Prouinces of the Low-Counties
+<pb n="11" facs="tcp:177233:7"/>which labour very earneſtly to make peace betwixt <hi>Po<g ref="char:EOLhyphen"/>land</hi> and <hi>Sweden</hi>) gone towards the Polon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an Generall of the Field.</p>
+               <p>On the firſt of September went the King of <hi>Poland</hi> to ſee and to view our walls, and all our ſconces, and works round about this City, and eſpecially the new raiſed ſconce, which the ſouldiers cal commonly <hi>Schenke-ſconce,</hi> by reaſon of the ſtrength of it: and at the ſame time there were 44 peeces of ordnance diſcharged, beſides many muskets both by water and land. The King liking theſe workes exceedingly well, reioyced much at it, and com<g ref="char:EOLhyphen"/>mended much to his Lords the endeauors and faithful<g ref="char:EOLhyphen"/>neſſe of the Danſickers, ſaying that they had well labou<g ref="char:EOLhyphen"/>red, and were his loyall ſeruants, and that they had not done as they of <hi>Elbingen,</hi> and others.</p>
+               <p>On the ſecond of September went the King of Poland with the Prince his ſonne, and diuers great Lords, be<g ref="char:EOLhyphen"/>ſides our Burgemaſters, and ſome of our Aldermen, ear<g ref="char:EOLhyphen"/>ly in the morning toward the Fort which is called <hi>Weich<g ref="char:EOLhyphen"/>ſelmundt,</hi> and when they had viewed there all things very well, our Magiſtrates did feaſt very ſtately both the King and his followers, and about the euening there were many pieces of ordnance diſcharged both in the 12 Ships which lay thereabout, and in the Sconces. And it happened that about the ſame time, that a Galley of the King of <hi>Poland</hi> being put to Sea to try whether it could well ſayle, it encountred with a Swediſh ſhip, and had a pretty combat both with it, and 3 other for a little while, which were afterwards cruelly battered by our ordnance which lay in a ſconce neere which the Swediſh followed the ſaid Gally. The ſaid King hauing ſeene this ſport with contentment, returned the ſame euening againe to the ſaid City, and departed from thence on the 4 of this moneth, three Poſtes being ſent to him, and went directly towards his Army.</p>
+               <p>In the weeke which is laſt paſt were the Ambaſſadors
+<pb n="12" facs="tcp:177233:8"/>together, and the Polonians were to propound ſome ar<g ref="char:EOLhyphen"/>ticles of peace betwixt <hi>Poland</hi> and <hi>Sweden.</hi>
+               </p>
+            </div>
+            <div type="entry">
+               <head>From Brunſwicke the 2 of October.</head>
+               <p>We haue nor as yet any other newes from the Depu<g ref="char:EOLhyphen"/>tations day which is appointed to be kept at <hi>Mulhowſen,</hi> but that diuers Ambaſſadors as of the Emperor, Electors, Princes, and States of the Empire, are gone thitherward.</p>
+               <p>They of <hi>Wolfenbuttel</hi> although they are very cloſe im<g ref="char:EOLhyphen"/>blocked, ſally neuertheleſſe daily forth, and ſlue few dayes agoe many Imperiall ſouldiers and husbandmen that would ſtop the water which runneth to the ſayd Towne.</p>
+               <p>The Towne of <hi>Newburg,</hi> or the Gouernor of it, name<g ref="char:EOLhyphen"/>ly the Colonell <hi>Limbach</hi> hath offered to ſurrender it vp<g ref="char:EOLhyphen"/>on certaine conditions to the Duke of <hi>Lunnenburg,</hi> and amongſt the reſt, that the Emperour ſhould grant a gene<g ref="char:EOLhyphen"/>rall pardon to them that are in it. But if that be refuſed, he will blow vp the ſaid Towne, and ruine all that is therein.</p>
+            </div>
+            <div type="entry">
+               <head>From <g ref="char:V">Ʋ</g>erden the <hi>8</hi> of October.</head>
+               <p>Both the Imperiall and Daniſh ſouldiers make them<g ref="char:EOLhyphen"/>ſelues daily ſtronger and ſtronger in this Biſhopricke. The Daniſh hauing raiſed a ſtrong ſconce at <hi>Borcht</hi> to maintaine themſelues there, they haue fired the Towne of <hi>Verden,</hi> and burned it quite to the ground.</p>
+               <p>From <hi>Newburg</hi> we heare no newes, ſeeing that the ſaid Towne being now very ſtrictly beſieged, the Poſts which come from <hi>Cullen</hi> haue altered their paſſage, and trauelled by the way of <hi>Newſtadt:</hi> But it is thought that it ſhall be ſurrendred if the Gouernor of it can obtaine a pardon of the Emperor, ſeeing that he hath had it twice before.</p>
+               <pb n="13" facs="tcp:177233:8"/>
+               <p>The Imperialiſts make great warlike preparations to beat the Daniſh quite out of the Biſhopricke of <hi>Bremen</hi> of which we ſhall ſhortly heare more.</p>
+            </div>
+            <div type="entry">
+               <head>From Stoade the 7 of October.</head>
+               <p>This Towne is repleniſhed with Daniſh Souldiers, but they are in great feare, ſeeing that the Imperialiſts ſtrengthen themſelues daily in thoſe parts.</p>
+               <p>Our Biſhop who is now at <hi>Lubecke,</hi> as likewiſe the Imperiall Ambaſſadors which are yet at <hi>Hamburg,</hi> ex<g ref="char:EOLhyphen"/>hort the States of theſe Lands that they will remember the oath which they haue made to the Emperor.</p>
+               <p>The Daniſh lye yet intrenched neere <hi>Crimpen,</hi> and <hi>Lukestadt,</hi> and we haue not heard that there hath lately any thing of moment beene done by the Imperialiſts or Daniſh.</p>
+            </div>
+            <div type="entry">
+               <head>From Pinnenberg the <hi>10</hi> of October.</head>
+               <p>We haue not as yet learned any certaintie how it ſtan<g ref="char:EOLhyphen"/>deth with <hi>Renſburg,</hi> and with the Imperiall Campe, but we expect it daily.</p>
+               <p>The Generall <hi>Tilly</hi> is gone from <hi>Lawenburg</hi> towards <hi>Winſen,</hi> which is a Caſtle of the Duke of <hi>Lunnenburg.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
